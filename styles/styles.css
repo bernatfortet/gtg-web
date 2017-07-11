@@ -869,7 +869,7 @@ body {
 .heading .contact-box .icon {
   font-size: 32px;
   margin-right: 12px;
-  color: #43A2CD;
+  fill: #43A2CD;
   -webkit-transition-property: all;
   -webkit-transition-duration: 100ms;
   -webkit-transition-timing-function: linear;
@@ -1145,7 +1145,7 @@ footer a:hover .text {
   opacity: 1;
 }
 footer a:hover .icon {
-  color: #43A2CD;
+  fill: #43A2CD;
 }
 footer .item {
   -webkit-align-items: center;
@@ -1204,6 +1204,11 @@ footer .icon:hover {
   display: -ms-flex;
   display: flex;
   margin: 0 auto;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+  font-style: normal;
 }
 .ambit {
   width: 50%;
