@@ -975,7 +975,7 @@ body {
   opacity: 1;
 }
 .heading .contact-box a:hover .icon {
-  color: #190B2B;
+  fill: #190B2B;
 }
 h3 {
   font-size: 40px;
